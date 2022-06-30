@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leemi11er
 - 👀 I’m interested in creating apps and virtual worlds
 - 🌱 I’m currently learning Python, SQL, C++, Unreal 5
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Python, SQL
 - 📫 How to reach me info@leemiller.net
 
 <!---
